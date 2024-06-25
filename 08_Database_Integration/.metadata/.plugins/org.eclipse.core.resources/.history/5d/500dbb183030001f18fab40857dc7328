@@ -1,0 +1,7 @@
+package br.com.marcelmariani.exceptions;
+
+import java.io.Serializable;
+
+public class ExceptionResponse implements Serializable {
+
+}
