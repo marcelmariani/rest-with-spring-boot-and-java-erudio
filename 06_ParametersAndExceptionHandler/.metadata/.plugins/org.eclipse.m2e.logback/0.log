@@ -303,3 +303,252 @@
 2024-06-21 12:38:41,700 [Worker-10: Launching rest-with-spring-boot-and-java-erudio - Startup] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
 2024-06-21 12:38:41,705 [Worker-10: Launching rest-with-spring-boot-and-java-erudio - Startup] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\java-springboot\rest-with-spring-boot-and-java-erudio\05_FirstStepsInJavawithSpringBoot\rest-with-spring-boot-and-java-erudio\src\test\resources
 2024-06-21 13:24:29,185 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-06-21 13:32:17,948 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-06-21 13:32:17,959 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-06-21 13:32:17,963 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\java-springboot\rest-with-spring-boot-and-java-erudio\06_ParametersAndExceptionHandler\rest-with-spring-boot-and-java-erudio\src\test\resources
+2024-06-21 13:32:46,326 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-06-21 13:32:46,331 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-06-21 13:32:46,336 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\java-springboot\rest-with-spring-boot-and-java-erudio\06_ParametersAndExceptionHandler\rest-with-spring-boot-and-java-erudio\src\test\resources
+2024-06-21 13:34:21,927 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-06-21 13:34:21,947 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-06-21 13:34:21,954 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\java-springboot\rest-with-spring-boot-and-java-erudio\06_ParametersAndExceptionHandler\rest-with-spring-boot-and-java-erudio\src\test\resources
+2024-06-21 13:34:27,390 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-06-21 13:34:27,393 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-06-21 13:34:27,396 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\java-springboot\rest-with-spring-boot-and-java-erudio\06_ParametersAndExceptionHandler\rest-with-spring-boot-and-java-erudio\src\test\resources
+2024-06-21 13:36:06,806 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-06-21 13:36:06,821 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-06-21 13:36:06,835 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\java-springboot\rest-with-spring-boot-and-java-erudio\06_ParametersAndExceptionHandler\rest-with-spring-boot-and-java-erudio\src\test\resources
+2024-06-21 13:36:18,446 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-06-21 13:36:18,449 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-06-21 13:36:18,452 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\java-springboot\rest-with-spring-boot-and-java-erudio\06_ParametersAndExceptionHandler\rest-with-spring-boot-and-java-erudio\src\test\resources
+2024-06-21 13:36:20,522 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-06-21 13:36:20,525 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-06-21 13:36:20,527 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\java-springboot\rest-with-spring-boot-and-java-erudio\06_ParametersAndExceptionHandler\rest-with-spring-boot-and-java-erudio\src\test\resources
+2024-06-21 13:37:22,891 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-06-21 13:37:22,895 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-06-21 13:37:22,899 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\java-springboot\rest-with-spring-boot-and-java-erudio\06_ParametersAndExceptionHandler\rest-with-spring-boot-and-java-erudio\src\test\resources
+2024-06-21 13:38:08,936 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-06-21 13:38:08,939 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-06-21 13:38:08,943 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\java-springboot\rest-with-spring-boot-and-java-erudio\06_ParametersAndExceptionHandler\rest-with-spring-boot-and-java-erudio\src\test\resources
+2024-06-21 13:39:42,337 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-06-21 13:39:42,340 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-06-21 13:39:42,343 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\java-springboot\rest-with-spring-boot-and-java-erudio\06_ParametersAndExceptionHandler\rest-with-spring-boot-and-java-erudio\src\test\resources
+2024-06-21 13:40:37,079 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-06-21 13:40:37,082 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-06-21 13:40:37,085 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\java-springboot\rest-with-spring-boot-and-java-erudio\06_ParametersAndExceptionHandler\rest-with-spring-boot-and-java-erudio\src\test\resources
+2024-06-21 13:42:43,588 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-06-21 13:42:43,593 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-06-21 13:42:43,596 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\java-springboot\rest-with-spring-boot-and-java-erudio\06_ParametersAndExceptionHandler\rest-with-spring-boot-and-java-erudio\src\test\resources
+2024-06-21 13:43:30,724 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-06-21 13:43:30,727 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-06-21 13:43:30,730 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\java-springboot\rest-with-spring-boot-and-java-erudio\06_ParametersAndExceptionHandler\rest-with-spring-boot-and-java-erudio\src\test\resources
+2024-06-21 13:44:40,927 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-06-21 13:44:40,931 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-06-21 13:44:40,934 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\java-springboot\rest-with-spring-boot-and-java-erudio\06_ParametersAndExceptionHandler\rest-with-spring-boot-and-java-erudio\src\test\resources
+2024-06-21 13:45:13,576 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-06-21 13:45:13,580 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-06-21 13:45:13,582 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\java-springboot\rest-with-spring-boot-and-java-erudio\06_ParametersAndExceptionHandler\rest-with-spring-boot-and-java-erudio\src\test\resources
+2024-06-21 13:45:41,560 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-06-21 13:45:41,573 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-06-21 13:45:41,575 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\java-springboot\rest-with-spring-boot-and-java-erudio\06_ParametersAndExceptionHandler\rest-with-spring-boot-and-java-erudio\src\test\resources
+2024-06-21 21:25:00,215 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-06-21 21:25:00,219 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-06-21 21:25:00,225 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\java-springboot\rest-with-spring-boot-and-java-erudio\06_ParametersAndExceptionHandler\rest-with-spring-boot-and-java-erudio\src\test\resources
+2024-06-21 21:26:05,494 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-06-21 21:26:05,497 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-06-21 21:26:05,501 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\java-springboot\rest-with-spring-boot-and-java-erudio\06_ParametersAndExceptionHandler\rest-with-spring-boot-and-java-erudio\src\test\resources
+2024-06-21 21:27:10,990 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-06-21 21:27:10,994 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-06-21 21:27:10,998 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\java-springboot\rest-with-spring-boot-and-java-erudio\06_ParametersAndExceptionHandler\rest-with-spring-boot-and-java-erudio\src\test\resources
+2024-06-21 21:27:23,528 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-06-21 21:27:23,531 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-06-21 21:27:23,536 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\java-springboot\rest-with-spring-boot-and-java-erudio\06_ParametersAndExceptionHandler\rest-with-spring-boot-and-java-erudio\src\test\resources
+2024-06-21 21:27:29,958 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-06-21 21:27:29,971 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-06-21 21:27:29,976 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\java-springboot\rest-with-spring-boot-and-java-erudio\06_ParametersAndExceptionHandler\rest-with-spring-boot-and-java-erudio\src\test\resources
+2024-06-21 21:27:35,332 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-06-21 21:27:35,336 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-06-21 21:27:35,339 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\java-springboot\rest-with-spring-boot-and-java-erudio\06_ParametersAndExceptionHandler\rest-with-spring-boot-and-java-erudio\src\test\resources
+2024-06-21 21:27:52,788 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-06-21 21:27:52,791 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-06-21 21:27:52,795 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\java-springboot\rest-with-spring-boot-and-java-erudio\06_ParametersAndExceptionHandler\rest-with-spring-boot-and-java-erudio\src\test\resources
+2024-06-21 21:28:13,259 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-06-21 21:28:13,268 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-06-21 21:28:13,273 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\java-springboot\rest-with-spring-boot-and-java-erudio\06_ParametersAndExceptionHandler\rest-with-spring-boot-and-java-erudio\src\test\resources
+2024-06-21 21:28:35,076 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-06-21 21:28:35,079 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-06-21 21:28:35,083 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\java-springboot\rest-with-spring-boot-and-java-erudio\06_ParametersAndExceptionHandler\rest-with-spring-boot-and-java-erudio\src\test\resources
+2024-06-21 21:30:58,164 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-06-21 21:30:58,167 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-06-21 21:30:58,170 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\java-springboot\rest-with-spring-boot-and-java-erudio\06_ParametersAndExceptionHandler\rest-with-spring-boot-and-java-erudio\src\test\resources
+2024-06-21 21:31:09,122 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-06-21 21:31:09,125 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-06-21 21:31:09,130 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\java-springboot\rest-with-spring-boot-and-java-erudio\06_ParametersAndExceptionHandler\rest-with-spring-boot-and-java-erudio\src\test\resources
+2024-06-21 21:31:41,546 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-06-21 21:31:41,552 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-06-21 21:31:41,554 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\java-springboot\rest-with-spring-boot-and-java-erudio\06_ParametersAndExceptionHandler\rest-with-spring-boot-and-java-erudio\src\test\resources
+2024-06-21 21:32:33,922 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-06-21 21:32:33,927 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-06-21 21:32:33,930 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\java-springboot\rest-with-spring-boot-and-java-erudio\06_ParametersAndExceptionHandler\rest-with-spring-boot-and-java-erudio\src\test\resources
+2024-06-21 21:37:18,181 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-06-21 21:37:18,199 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-06-21 21:37:18,203 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\java-springboot\rest-with-spring-boot-and-java-erudio\06_ParametersAndExceptionHandler\rest-with-spring-boot-and-java-erudio\src\test\resources
+2024-06-21 21:40:16,931 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-06-21 21:40:16,937 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-06-21 21:40:16,941 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\java-springboot\rest-with-spring-boot-and-java-erudio\06_ParametersAndExceptionHandler\rest-with-spring-boot-and-java-erudio\src\test\resources
+2024-06-21 21:40:38,910 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-06-21 21:40:38,915 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-06-21 21:40:38,918 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\java-springboot\rest-with-spring-boot-and-java-erudio\06_ParametersAndExceptionHandler\rest-with-spring-boot-and-java-erudio\src\test\resources
+2024-06-21 21:40:41,329 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-06-21 21:40:41,334 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-06-21 21:40:41,337 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\java-springboot\rest-with-spring-boot-and-java-erudio\06_ParametersAndExceptionHandler\rest-with-spring-boot-and-java-erudio\src\test\resources
+2024-06-21 21:40:53,195 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-06-21 21:40:53,201 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-06-21 21:40:53,205 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\java-springboot\rest-with-spring-boot-and-java-erudio\06_ParametersAndExceptionHandler\rest-with-spring-boot-and-java-erudio\src\test\resources
+2024-06-21 21:41:00,472 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-06-21 21:41:00,475 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-06-21 21:41:00,479 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\java-springboot\rest-with-spring-boot-and-java-erudio\06_ParametersAndExceptionHandler\rest-with-spring-boot-and-java-erudio\src\test\resources
+2024-06-21 21:41:05,150 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-06-21 21:41:05,152 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-06-21 21:41:05,155 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\java-springboot\rest-with-spring-boot-and-java-erudio\06_ParametersAndExceptionHandler\rest-with-spring-boot-and-java-erudio\src\test\resources
+2024-06-21 21:42:19,640 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-06-21 21:42:19,643 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-06-21 21:42:19,645 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\java-springboot\rest-with-spring-boot-and-java-erudio\06_ParametersAndExceptionHandler\rest-with-spring-boot-and-java-erudio\src\test\resources
+2024-06-21 21:43:43,082 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-06-21 21:43:43,095 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-06-21 21:43:43,097 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\java-springboot\rest-with-spring-boot-and-java-erudio\06_ParametersAndExceptionHandler\rest-with-spring-boot-and-java-erudio\src\test\resources
+2024-06-21 21:43:53,111 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-06-21 21:43:53,115 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-06-21 21:43:53,118 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\java-springboot\rest-with-spring-boot-and-java-erudio\06_ParametersAndExceptionHandler\rest-with-spring-boot-and-java-erudio\src\test\resources
+2024-06-21 21:44:18,191 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-06-21 21:44:18,194 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-06-21 21:44:18,197 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\java-springboot\rest-with-spring-boot-and-java-erudio\06_ParametersAndExceptionHandler\rest-with-spring-boot-and-java-erudio\src\test\resources
+2024-06-21 21:44:57,171 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-06-21 21:44:57,175 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-06-21 21:44:57,179 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\java-springboot\rest-with-spring-boot-and-java-erudio\06_ParametersAndExceptionHandler\rest-with-spring-boot-and-java-erudio\src\test\resources
+2024-06-21 21:45:37,741 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-06-21 21:45:37,745 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-06-21 21:45:37,748 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\java-springboot\rest-with-spring-boot-and-java-erudio\06_ParametersAndExceptionHandler\rest-with-spring-boot-and-java-erudio\src\test\resources
+2024-06-21 21:46:18,546 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-06-21 21:46:18,549 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-06-21 21:46:18,551 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\java-springboot\rest-with-spring-boot-and-java-erudio\06_ParametersAndExceptionHandler\rest-with-spring-boot-and-java-erudio\src\test\resources
+2024-06-21 21:46:31,568 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-06-21 21:46:31,571 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-06-21 21:46:31,573 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\java-springboot\rest-with-spring-boot-and-java-erudio\06_ParametersAndExceptionHandler\rest-with-spring-boot-and-java-erudio\src\test\resources
+2024-06-21 21:46:45,425 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-06-21 21:46:45,429 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-06-21 21:46:45,432 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\java-springboot\rest-with-spring-boot-and-java-erudio\06_ParametersAndExceptionHandler\rest-with-spring-boot-and-java-erudio\src\test\resources
+2024-06-21 21:46:57,680 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-06-21 21:46:57,683 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-06-21 21:46:57,685 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\java-springboot\rest-with-spring-boot-and-java-erudio\06_ParametersAndExceptionHandler\rest-with-spring-boot-and-java-erudio\src\test\resources
+2024-06-21 21:49:43,265 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-06-21 21:49:43,270 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-06-21 21:49:43,273 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\java-springboot\rest-with-spring-boot-and-java-erudio\06_ParametersAndExceptionHandler\rest-with-spring-boot-and-java-erudio\src\test\resources
+2024-06-21 21:50:12,895 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-06-21 21:50:12,905 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-06-21 21:50:12,907 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\java-springboot\rest-with-spring-boot-and-java-erudio\06_ParametersAndExceptionHandler\rest-with-spring-boot-and-java-erudio\src\test\resources
+2024-06-21 21:54:53,393 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-06-21 21:54:53,398 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-06-21 21:54:53,400 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\java-springboot\rest-with-spring-boot-and-java-erudio\06_ParametersAndExceptionHandler\rest-with-spring-boot-and-java-erudio\src\test\resources
+2024-06-21 21:55:40,770 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-06-21 21:55:40,775 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-06-21 21:55:40,778 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\java-springboot\rest-with-spring-boot-and-java-erudio\06_ParametersAndExceptionHandler\rest-with-spring-boot-and-java-erudio\src\test\resources
+2024-06-21 21:55:53,016 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-06-21 21:55:53,023 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-06-21 21:55:53,025 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\java-springboot\rest-with-spring-boot-and-java-erudio\06_ParametersAndExceptionHandler\rest-with-spring-boot-and-java-erudio\src\test\resources
+2024-06-21 21:56:08,104 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-06-21 21:56:08,107 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-06-21 21:56:08,109 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\java-springboot\rest-with-spring-boot-and-java-erudio\06_ParametersAndExceptionHandler\rest-with-spring-boot-and-java-erudio\src\test\resources
+2024-06-21 21:59:12,788 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-06-21 21:59:12,799 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-06-21 21:59:12,805 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\java-springboot\rest-with-spring-boot-and-java-erudio\06_ParametersAndExceptionHandler\rest-with-spring-boot-and-java-erudio\src\test\resources
+2024-06-21 21:59:28,552 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-06-21 21:59:28,555 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-06-21 21:59:28,557 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\java-springboot\rest-with-spring-boot-and-java-erudio\06_ParametersAndExceptionHandler\rest-with-spring-boot-and-java-erudio\src\test\resources
+2024-06-21 21:59:35,928 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-06-21 21:59:35,932 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-06-21 21:59:35,934 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\java-springboot\rest-with-spring-boot-and-java-erudio\06_ParametersAndExceptionHandler\rest-with-spring-boot-and-java-erudio\src\test\resources
+2024-06-21 22:00:02,801 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-06-21 22:00:02,813 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-06-21 22:00:02,816 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\java-springboot\rest-with-spring-boot-and-java-erudio\06_ParametersAndExceptionHandler\rest-with-spring-boot-and-java-erudio\src\test\resources
+2024-06-21 22:00:16,987 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-06-21 22:00:16,989 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-06-21 22:00:16,992 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\java-springboot\rest-with-spring-boot-and-java-erudio\06_ParametersAndExceptionHandler\rest-with-spring-boot-and-java-erudio\src\test\resources
+2024-06-21 22:00:43,097 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-06-21 22:00:43,100 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-06-21 22:00:43,102 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\java-springboot\rest-with-spring-boot-and-java-erudio\06_ParametersAndExceptionHandler\rest-with-spring-boot-and-java-erudio\src\test\resources
+2024-06-21 22:01:40,522 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-06-21 22:01:40,525 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-06-21 22:01:40,528 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\java-springboot\rest-with-spring-boot-and-java-erudio\06_ParametersAndExceptionHandler\rest-with-spring-boot-and-java-erudio\src\test\resources
+2024-06-21 22:01:53,060 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-06-21 22:01:53,062 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-06-21 22:01:53,065 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\java-springboot\rest-with-spring-boot-and-java-erudio\06_ParametersAndExceptionHandler\rest-with-spring-boot-and-java-erudio\src\test\resources
+2024-06-21 22:02:01,649 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-06-21 22:02:01,665 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-06-21 22:02:01,668 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\java-springboot\rest-with-spring-boot-and-java-erudio\06_ParametersAndExceptionHandler\rest-with-spring-boot-and-java-erudio\src\test\resources
+2024-06-21 22:02:29,687 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-06-21 22:02:29,699 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-06-21 22:02:29,704 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\java-springboot\rest-with-spring-boot-and-java-erudio\06_ParametersAndExceptionHandler\rest-with-spring-boot-and-java-erudio\src\test\resources
+2024-06-21 22:02:47,686 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-06-21 22:02:47,690 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-06-21 22:02:47,692 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\java-springboot\rest-with-spring-boot-and-java-erudio\06_ParametersAndExceptionHandler\rest-with-spring-boot-and-java-erudio\src\test\resources
+2024-06-21 22:03:00,706 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-06-21 22:03:00,708 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-06-21 22:03:00,712 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\java-springboot\rest-with-spring-boot-and-java-erudio\06_ParametersAndExceptionHandler\rest-with-spring-boot-and-java-erudio\src\test\resources
+2024-06-21 22:07:26,814 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-06-21 22:07:26,819 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-06-21 22:07:26,821 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\java-springboot\rest-with-spring-boot-and-java-erudio\06_ParametersAndExceptionHandler\rest-with-spring-boot-and-java-erudio\src\test\resources
+2024-06-21 22:07:58,784 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-06-21 22:07:58,791 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-06-21 22:07:58,793 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\java-springboot\rest-with-spring-boot-and-java-erudio\06_ParametersAndExceptionHandler\rest-with-spring-boot-and-java-erudio\src\test\resources
+2024-06-21 22:09:34,409 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-06-21 22:09:34,414 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-06-21 22:09:34,416 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\java-springboot\rest-with-spring-boot-and-java-erudio\06_ParametersAndExceptionHandler\rest-with-spring-boot-and-java-erudio\src\test\resources
+2024-06-21 22:10:24,229 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-06-21 22:10:24,234 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-06-21 22:10:24,237 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\java-springboot\rest-with-spring-boot-and-java-erudio\06_ParametersAndExceptionHandler\rest-with-spring-boot-and-java-erudio\src\test\resources
+2024-06-21 22:10:26,317 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-06-21 22:10:26,320 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-06-21 22:10:26,322 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\java-springboot\rest-with-spring-boot-and-java-erudio\06_ParametersAndExceptionHandler\rest-with-spring-boot-and-java-erudio\src\test\resources
+2024-06-21 22:11:17,220 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-06-21 22:11:17,232 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-06-21 22:11:17,238 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\java-springboot\rest-with-spring-boot-and-java-erudio\06_ParametersAndExceptionHandler\rest-with-spring-boot-and-java-erudio\src\test\resources
+2024-06-21 22:19:42,206 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-06-21 22:19:42,211 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-06-21 22:19:42,214 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\java-springboot\rest-with-spring-boot-and-java-erudio\06_ParametersAndExceptionHandler\rest-with-spring-boot-and-java-erudio\src\test\resources
+2024-06-21 22:19:49,557 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-06-21 22:19:49,562 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-06-21 22:19:49,564 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\java-springboot\rest-with-spring-boot-and-java-erudio\06_ParametersAndExceptionHandler\rest-with-spring-boot-and-java-erudio\src\test\resources
+2024-06-21 22:19:56,564 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-06-21 22:19:56,569 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-06-21 22:19:56,571 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\java-springboot\rest-with-spring-boot-and-java-erudio\06_ParametersAndExceptionHandler\rest-with-spring-boot-and-java-erudio\src\test\resources
+2024-06-21 22:20:46,205 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-06-21 22:20:46,210 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-06-21 22:20:46,213 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\java-springboot\rest-with-spring-boot-and-java-erudio\06_ParametersAndExceptionHandler\rest-with-spring-boot-and-java-erudio\src\test\resources
+2024-06-21 22:21:16,611 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-06-21 22:21:16,613 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-06-21 22:21:16,616 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\java-springboot\rest-with-spring-boot-and-java-erudio\06_ParametersAndExceptionHandler\rest-with-spring-boot-and-java-erudio\src\test\resources
+2024-06-21 22:22:16,291 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-06-21 22:22:16,294 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-06-21 22:22:16,296 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\java-springboot\rest-with-spring-boot-and-java-erudio\06_ParametersAndExceptionHandler\rest-with-spring-boot-and-java-erudio\src\test\resources
+2024-06-21 22:27:46,068 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-06-21 22:27:46,093 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-06-21 22:27:46,097 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\java-springboot\rest-with-spring-boot-and-java-erudio\06_ParametersAndExceptionHandler\rest-with-spring-boot-and-java-erudio\src\test\resources
+2024-06-21 22:28:01,422 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-06-21 22:28:01,435 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-06-21 22:28:01,438 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\java-springboot\rest-with-spring-boot-and-java-erudio\06_ParametersAndExceptionHandler\rest-with-spring-boot-and-java-erudio\src\test\resources
+2024-06-21 22:28:11,935 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-06-21 22:28:11,956 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-06-21 22:28:11,958 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\java-springboot\rest-with-spring-boot-and-java-erudio\06_ParametersAndExceptionHandler\rest-with-spring-boot-and-java-erudio\src\test\resources
+2024-06-21 22:28:37,387 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-06-21 22:28:37,395 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-06-21 22:28:37,399 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\java-springboot\rest-with-spring-boot-and-java-erudio\06_ParametersAndExceptionHandler\rest-with-spring-boot-and-java-erudio\src\test\resources
+2024-06-21 22:30:06,389 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-06-21 22:30:06,401 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-06-21 22:30:06,404 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\java-springboot\rest-with-spring-boot-and-java-erudio\06_ParametersAndExceptionHandler\rest-with-spring-boot-and-java-erudio\src\test\resources
+2024-06-21 22:32:52,910 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-06-21 22:32:52,914 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-06-21 22:32:52,916 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\java-springboot\rest-with-spring-boot-and-java-erudio\06_ParametersAndExceptionHandler\rest-with-spring-boot-and-java-erudio\src\test\resources
+2024-06-21 22:34:53,005 [Worker-68: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-06-21 22:34:53,011 [Worker-68: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-06-21 22:34:53,013 [Worker-68: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\java-springboot\rest-with-spring-boot-and-java-erudio\06_ParametersAndExceptionHandler\rest-with-spring-boot-and-java-erudio\src\test\resources
