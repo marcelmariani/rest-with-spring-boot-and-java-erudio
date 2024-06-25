@@ -1,0 +1,8 @@
+package br.com.marcelmariani.exceptions;
+
+import org.springframework.web.bind.annotation.ResponseStatus;
+
+@ResponseStatus
+public class UnsupportedMathOperationException extends RuntimeException{
+
+}

@@ -1,0 +1,5 @@
+package br.com.marcelmariani.converters;
+
+public class NumberConverter {
+
+}
