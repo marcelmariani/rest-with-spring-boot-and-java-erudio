@@ -2,3 +2,8 @@
 1719283063879	Delete element
 1719283067458	Delete element
 1719283112495	Rename type 'MathController'
+1719315788963	Rename resource 'application.yml'
+1719316251665	Rename resource 'application.properties'
+1719357205599	Rename resource 'application.yml'
+1719357789434	Rename resource 'application.properties'
+1719358327307	Rename type 'UnsupportedMathOperationException'
