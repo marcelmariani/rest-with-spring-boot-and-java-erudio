@@ -1,0 +1,36 @@
+package br.com.marcelmariani.controllers;
+
+import java.awt.PageAttributes.MediaType;
+import java.util.concurrent.atomic.AtomicLong;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.web.bind.annotation.PathVariable;
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RequestMethod;
+import org.springframework.web.bind.annotation.RestController;
+import br.com.marcelmariani.exceptions.UnsupportedMathOperationException;
+import br.com.marcelmariani.services.PersonServices;
+
+@RestController
+@RequestMapping("/person")
+public class PersonController {
+
+	@Autowired
+	private PersonServices service;
+	
+	@RequestMapping(value = "/{id}",
+			method=RequestMethod.GET,
+			produces = org.springframework.http.MediaType.APPLICATION_JSON_VALUE)
+	
+	public Double sum(
+			@PathVariable(value = "numberOne") String numberOne,
+			@PathVariable(value = "numberTwo") String numberTwo
+		) throws Exception {
+		
+		if(!NumberConverter.isNumeric(numberOne) || !NumberConverter.isNumeric(numberTwo)) {
+			throw new UnsupportedMathOperationException("Please set a numeric value!");
+		}
+		
+		return math.sum(NumberConverter.convertToDouble(numberOne), NumberConverter.convertToDouble(numberTwo));
+	}
+}
